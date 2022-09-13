@@ -6,14 +6,6 @@ import json
 import ast
 
 
-
-key = "1e2490477ad74bde918eb46d89f6889b560294ff593a46f091d75fed38fa5fb0"
-secret = "9703208dfd24474a8ecab63e4791b695eab99b707c2d495d8677d43286c1094d"
-
-
-#Dom generated Fri 9 Sep @ 15:36
-token = "MWUyNDkwNDc3YWQ3NGJkZTkxOGViNDZkODlmNjg4OWI1NjAyOTRmZjU5M2E0NmYwOTFkNzVmZWQzOGZhNWZiMDo5NzAzMjA4ZGZkMjQ0NzRhOGVjYWI2M2U0NzkxYjY5NWVhYjk5YjcwN2MyZDQ5NWQ4Njc3ZDQzMjg2YzEwOTRk"
-
 """
 Authentication 
 """
